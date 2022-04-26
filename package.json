@@ -14,17 +14,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/smartlyio/fullstackopen-cicd.git"
+    "url": "git+https://github.com/jlferrete/full-stack-open-pokedex-CI-CD.git"
   },
   "keywords": [
     "fullstack-open"
   ],
-  "author": "Smartly.io",
+  "author": "jlferrete.com",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/smartlyio/fullstackopen-cicd/issues"
+    "url": "https://github.com/jlferrete/full-stack-open-pokedex-CI-CD.git/issues"
   },
-  "homepage": "https://github.com/smartlyio/fullstackopen-cicd#readme",
+  "homepage": "https://github.com/jlferrete/full-stack-open-pokedex-CI-CD.git#readme",
   "devDependencies": {
     "@babel/core": "^7.9.6",
     "@babel/plugin-transform-runtime": "^7.10.0",
