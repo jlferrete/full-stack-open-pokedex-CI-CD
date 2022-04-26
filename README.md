@@ -1,10 +1,14 @@
-[![Deployment Pipeline](https://github.com/jlferrete/full-stack-open-pokedex-CI-CD/actions/workflows/pipeline.yml/badge.svg)](https://github.com/jlferrete/full-stack-open-pokedex-CI-CD/actions/workflows/pipeline.yml)
-
 # Full Stack open CI/CD
 
-This repository is used for the CI/CD module of the Full stack open course
+This repository is used for CI/CD integration propouses. Feel free to fork it and share!
 
-Fork the repository to complete course exercises
+## Status
+[![Deployment Pipeline](https://github.com/jlferrete/full-stack-open-pokedex-CI-CD/actions/workflows/pipeline.yml/badge.svg)](https://github.com/jlferrete/full-stack-open-pokedex-CI-CD/actions/workflows/pipeline.yml)
+
+## Technologies
+<p style="text-align: center;">
+![NodeJs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white "NodeJs") ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB "React") ![JavaScript](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB "JavaScript") ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white "CSS") ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white "HTML") ![GitHub Actions](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white "GitHub Actions")
+</p>
 
 ## Commands
 
@@ -17,6 +21,9 @@ Start by running `npm install` inside the project folder
 `npm run eslint` to run eslint
 `npm run build` to make a production build
 `npm run start-prod` to run your production build
+
+## Web application on Heroku
+[Click here](https://jlf-ci-ga.herokuapp.com/)
 
 ## Thanks to
 Smartly.io
