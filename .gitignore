@@ -1,3 +1,8 @@
+#Cypress
+cypress/plugins
+cypress/support
+cypress/videos
+
 # Logs
 logs
 *.log
